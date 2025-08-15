@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.exe
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.deps.json
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.runtimeconfig.json
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.dll
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.pdb
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.AssemblyInfo.cs
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.sourcelink.json
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.dll
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\refint\WarehouseSystem.dll
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.pdb
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.genruntimeconfig.cache
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment3-11125864\dcit318-assignment3-11125864\WarehouseSystem\obj\Debug\net9.0\ref\WarehouseSystem.dll
